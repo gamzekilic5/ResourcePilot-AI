@@ -1,0 +1,11 @@
+task_id,project_name,wbs_level,task_name,required_skill,workload_hours,priority,start_day,deadline_day
+T1,Project Alpha,1.1,System Design,System Engineering,32,5,1,8
+T2,Project Alpha,1.2,Software Prototype,Software,60,5,4,18
+T3,Project Alpha,1.3,Test Planning,Industrial Engineering,30,4,10,22
+T4,Project Beta,2.1,Sensor Interface Study,Electronics,48,5,1,14
+T5,Project Beta,2.2,Data Pipeline,Data Analysis,40,4,5,20
+T6,Project Gamma,3.1,Process Mapping,Industrial Engineering,28,3,2,12
+T7,Project Gamma,3.2,Dashboard Prototype,Data Analysis,36,3,8,24
+T8,Project Delta,4.1,Resource Planning Model,Project Management,44,5,1,16
+T9,Project Delta,4.2,Technical Documentation,Project Management,24,2,14,28
+T10,Project Epsilon,5.1,Simulation Scenario,Industrial Engineering,45,4,6,26

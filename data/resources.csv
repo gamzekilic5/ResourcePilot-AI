@@ -1,0 +1,9 @@
+resource_id,name,skill,weekly_capacity_hours,availability,cost_per_hour,seniority
+R1,Engineer A,Software,40,1,110,Senior
+R2,Engineer B,Industrial Engineering,35,1,90,Mid
+R3,Engineer C,Electronics,40,1,100,Senior
+R4,Engineer D,Data Analysis,30,1,85,Mid
+R5,Engineer E,Project Management,35,1,95,Senior
+R6,Engineer F,Industrial Engineering,25,1,70,Junior
+R7,Engineer G,Software,30,1,75,Junior
+R8,Engineer H,System Engineering,35,1,105,Senior
