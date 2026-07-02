@@ -45,7 +45,7 @@ Future versions will include an AI-assisted document understanding module that g
 
 ---
 
-## ⚙️ Technologies
+## Technologies
 
 - Python
 - Streamlit
