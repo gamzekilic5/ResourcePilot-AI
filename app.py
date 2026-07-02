@@ -16,7 +16,7 @@ OUTPUT_DIR = Path("outputs")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 st.set_page_config(
-    page_title="ResourcePilot Pro",
+    page_title="ResourcePilot",
     page_icon="📊",
     layout="wide"
 )
