@@ -56,7 +56,7 @@ Future versions will include an AI-assisted document understanding module that g
 
 ---
 
-## 📊 Current Modules
+##  Current Modules
 
 - Data Upload
 - Validation Layer
@@ -68,7 +68,7 @@ Future versions will include an AI-assisted document understanding module that g
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - RAG-based document understanding
 - AI Planning Assistant
@@ -92,7 +92,7 @@ This design aims to reduce hallucination risks and increase transparency in proj
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ResourcePilot/
