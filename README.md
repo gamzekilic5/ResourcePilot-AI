@@ -111,20 +111,4 @@ ResourcePilot/
 
 ---
 
-##  Installation
 
-```bash
-git clone https://github.com/YOUR_USERNAME/ResourcePilot.git
-
-cd ResourcePilot
-
-python3 -m pip install -r requirements.txt
-
-python3 -m streamlit run app.py
-```
-
----
-
-##  License
-
-This project is developed for educational and portfolio purposes.
